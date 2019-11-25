@@ -98,6 +98,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
+  color: aliceblue;
   background-image: url("../images/nasa.jpg");
   background-attachment: fixed;
   background-position: bottom center;
