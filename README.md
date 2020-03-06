@@ -1,4 +1,4 @@
-# javascript-challenge
+# UFO Sightings
 
 ### Level 1: Automatic Table and Date Search (Required)
 
